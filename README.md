@@ -18,4 +18,4 @@ Happy Teachers Day
 [vscode]: https://code.visualstudio.com/
 
 
-[website]: https://sahoochinmay.github.io/TeachersDay/
+[website]: https://surlogu.github.io/TeachersDay/
