@@ -12,9 +12,9 @@ Happy Teachers Day
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Chinmay_R_sahoo
-[instagram]: https://www.instagram.com/chinmay_ranjan_/
-[linkedin]: https://www.linkedin.com/in/chinmay-ranjan-sahoo-865b75161/
+[twitter]: https://twitter.com/surlogu
+[instagram]: https://www.instagram.com/surlogu/
+[linkedin]: https://www.linkedin.com/in/surlogu/
 [vscode]: https://code.visualstudio.com/
 
 
